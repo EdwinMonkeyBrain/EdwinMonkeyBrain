@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EdwinMonkeyBrain
-- 👀 I’m interested in A lot but one of them being computer science
-- 🌱 I’m currently learning Responsive Web Design
+- 👋 Hi, I am @EdwinMonkeyBrain
+- 👀 I’m interested in A lot of things one of them being computer science
+- 🌱 Currently i'm learning Responsive Web Design
 - 💞️ I’m looking to collaborate on something realy amazing
 - ⚡ BTW: I use Arch😉
 
